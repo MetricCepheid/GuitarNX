@@ -8,9 +8,9 @@
 **
 */
 
-#include "jdkmidi/world.h"
+#include "../jdkmidi/world.h"
 
-#include "jdkmidi/file.h"
+#include "../jdkmidi/file.h"
 
 #if DEBUG_MDFILE
 # undef DBG

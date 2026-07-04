@@ -9,9 +9,9 @@
 */
 
 
-#include "jdkmidi/world.h"
+#include "../jdkmidi/world.h"
 
-#include "jdkmidi/matrix.h"
+#include "../jdkmidi/matrix.h"
 
 #ifndef DEBUG_MDMATRIX
 # define DEBUG_MDMATRIX	0

@@ -11,12 +11,12 @@
 #ifndef _JDKMIDI_FILEREADMULTITRACK_H
 #define _JDKMIDI_FILEREADMULTITRACK_H
 
-#include "jdkmidi/midi.h"
-#include "jdkmidi/msg.h"
-#include "jdkmidi/sysex.h"
-#include "jdkmidi/file.h"
-#include "jdkmidi/fileread.h"
-#include "jdkmidi/multitrack.h"
+#include "midi.h"
+#include "msg.h"
+#include "sysex.h"
+#include "file.h"
+#include "fileread.h"
+#include "multitrack.h"
 
 namespace jdkmidi
 {

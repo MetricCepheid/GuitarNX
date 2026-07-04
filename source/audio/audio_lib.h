@@ -1,5 +1,5 @@
 #pragma once
-#include <SDL.h> 
+#include <sdl2/sdl.h>
 
 #define FULL 25
 //  	int bytespsec = ((44100 * 16 * 2 * 125) / 1000);

@@ -1,12 +1,12 @@
 #ifndef _JDKMIDI_DRIVER_H
 #define _JDKMIDI_DRIVER_H
 
-#include "jdkmidi/msg.h"
-#include "jdkmidi/sysex.h"
-#include "jdkmidi/matrix.h"
-#include "jdkmidi/process.h"
-#include "jdkmidi/queue.h"
-#include "jdkmidi/tick.h"
+#include "msg.h"
+#include "sysex.h"
+#include "matrix.h"
+#include "process.h"
+#include "queue.h"
+#include "tick.h"
 
 namespace jdkmidi
 {  

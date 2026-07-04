@@ -22,7 +22,7 @@
 // 
 //
 
-#include "jdkmidi/midi.h"
+#include "midi.h"
 
 namespace jdkmidi
 {

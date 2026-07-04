@@ -1,5 +1,5 @@
-#include "jdkmidi/world.h"
-#include "jdkmidi/driver.h"
+#include "../jdkmidi/world.h"
+#include "../jdkmidi/driver.h"
 
 namespace jdkmidi
 {

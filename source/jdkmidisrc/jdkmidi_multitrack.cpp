@@ -10,9 +10,9 @@
 
 
 
-#include "jdkmidi/world.h"
+#include "../jdkmidi/world.h"
 
-#include "jdkmidi/multitrack.h"
+#include "../jdkmidi/multitrack.h"
 
 
 #ifndef DEBUG_MDMLTTRK

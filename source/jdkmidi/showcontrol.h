@@ -3,7 +3,7 @@
 
 
 
-#include "jdkmidi/sysex.h"
+#include "sysex.h"
 
 namespace jdkmidi
 {

@@ -11,9 +11,9 @@
 #ifndef _JDKMIDI_MSG_H
 #define _JDKMIDI_MSG_H
 
-#include "jdkmidi/midi.h"
-#include "jdkmidi/tempo.h"
-#include "jdkmidi/sysex.h"
+#include "midi.h"
+#include "tempo.h"
+#include "sysex.h"
 
 namespace jdkmidi
 {

@@ -1,5 +1,5 @@
-#include "jdkmidi/world.h"
-#include "jdkmidi/sequencer.h"
+#include "../jdkmidi/world.h"
+#include "../jdkmidi/sequencer.h"
 
 namespace jdkmidi
 {

@@ -1,5 +1,5 @@
-#include "jdkmidi/world.h"
-#include "jdkmidi/manager.h"
+#include "../jdkmidi/world.h"
+#include "../jdkmidi/manager.h"
 
 namespace jdkmidi
 {

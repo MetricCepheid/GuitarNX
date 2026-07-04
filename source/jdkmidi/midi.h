@@ -12,7 +12,7 @@
 #ifndef _JDKMIDI_MIDI_H
 #define _JDKMIDI_MIDI_H
 
-#include "jdkmidi/world.h"
+#include "world.h"
 
 namespace jdkmidi
 {

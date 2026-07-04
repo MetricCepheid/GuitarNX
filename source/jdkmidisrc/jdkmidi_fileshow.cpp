@@ -8,9 +8,9 @@
 **
 */
 
-#include "jdkmidi/world.h"
+#include "../jdkmidi/world.h"
 
-#include "jdkmidi/fileshow.h"
+#include "../jdkmidi/fileshow.h"
 
 #ifndef DEBUG_MDFSH
 # define DEBUG_MDFSH	0

@@ -11,7 +11,7 @@
 #ifndef _JDKMIDI_FILESHOW_H
 #define _JDKMIDI_FILESHOW_H
 
-#include "jdkmidi/fileread.h"
+#include "fileread.h"
 
 namespace jdkmidi
 {

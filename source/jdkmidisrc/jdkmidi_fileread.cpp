@@ -8,9 +8,9 @@
 **
 */
 
-#include "jdkmidi/world.h"
+#include "../jdkmidi/world.h"
 
-#include "jdkmidi/fileread.h"
+#include "../jdkmidi/fileread.h"
 
 // TO DO: decide which way is right for this flag and fix it - The standard midi file format specs are (were?) unclear
 

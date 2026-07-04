@@ -8,10 +8,10 @@
 **
 */
 
-#include "jdkmidi/world.h"
+#include "../jdkmidi/world.h"
 
-#include "jdkmidi/sysex.h"
-#include "jdkmidi/msg.h"
+#include "../jdkmidi/sysex.h"
+#include "../jdkmidi/msg.h"
 
 namespace jdkmidi
 {

@@ -91,9 +91,7 @@ bool isMusicDir(char* dirname) {
 			{
 				//strlwr
 #ifdef __SWITCH__
-				strlwr(dir->d_name);  
-#else
-				_strlwr(dir->d_name); // for windows
+				strlwr(dir->d_name);
 #endif 
 
 				if (strcmp(dir->d_name, "song.ini") == 0) {

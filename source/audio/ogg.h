@@ -1,6 +1,6 @@
 #pragma once
 
-#include <SDL.h> 
+#include <sdl2/sdl.h>
 #include <tremor/ivorbiscodec.h>
 #include <tremor/ivorbisfile.h> 
 #include <iostream>

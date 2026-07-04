@@ -1,7 +1,7 @@
 #ifndef WINDOW_H
 #define WINDOW_H
 
-#include <SDL.h>
+#include <sdl2/sdl.h>
 #include <glad/glad.h>
 
 #include "audio/audio_lib.h"
@@ -111,7 +111,7 @@ public:
 				return;
 			}
 		}
-#endif;
+#endif
 
 		SDL_GLContext ctx = SDL_GL_CreateContext(win);
 

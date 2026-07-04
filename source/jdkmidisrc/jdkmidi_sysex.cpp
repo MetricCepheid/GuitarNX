@@ -8,9 +8,9 @@
 **
 */
 
-#include "jdkmidi/world.h"
+#include "../jdkmidi/world.h"
 
-#include "jdkmidi/sysex.h"
+#include "../jdkmidi/sysex.h"
 
 
 #ifndef DEBUG_MDSYSEX

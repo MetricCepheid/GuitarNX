@@ -9,9 +9,9 @@
 */
 
 
-#include "jdkmidi/world.h"
+#include "../jdkmidi/world.h"
 
-#include "jdkmidi/track.h"
+#include "../jdkmidi/track.h"
 
 
 #ifndef DEBUG_MDTRACK

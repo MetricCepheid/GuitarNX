@@ -11,9 +11,9 @@
 #ifndef _JDKMIDI_EDITTRACK_H
 #define _JDKMIDI_EDITTRACK_H
 
-#include "jdkmidi/track.h"
-#include "jdkmidi/matrix.h"
-#include "jdkmidi/process.h"
+#include "track.h"
+#include "matrix.h"
+#include "process.h"
 
 namespace jdkmidi
 {

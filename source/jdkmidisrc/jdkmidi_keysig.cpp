@@ -9,9 +9,9 @@
 */
 
 
-#include "jdkmidi/world.h"
+#include "../jdkmidi/world.h"
 
-#include "jdkmidi/keysig.h"
+#include "../jdkmidi/keysig.h"
 
 
 #ifndef DEBUG_MDKEYSIG

@@ -12,8 +12,8 @@
 #define _JDKMIDI_MATRIX_H
 
 
-#include "jdkmidi/midi.h"
-#include "jdkmidi/msg.h"
+#include "midi.h"
+#include "msg.h"
 
 namespace jdkmidi
 {

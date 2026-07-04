@@ -9,9 +9,9 @@
 */
 
 
-#include "jdkmidi/world.h"
+#include "../jdkmidi/world.h"
 
-#include "jdkmidi/filewrite.h"
+#include "../jdkmidi/filewrite.h"
 
 #ifndef DEBUG_MDFWR
 # define DEBUG_MDFWR	0

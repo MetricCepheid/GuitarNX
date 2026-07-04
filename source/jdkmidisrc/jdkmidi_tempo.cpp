@@ -8,7 +8,7 @@
 **
 */
 
-#include "jdkmidi/world.h"
-#include "jdkmidi/tempo.h"
+#include "../jdkmidi/world.h"
+#include "../jdkmidi/tempo.h"
 
 

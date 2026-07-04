@@ -12,10 +12,10 @@
 #ifndef _JDKMIDI_FILE_H
 #define _JDKMIDI_FILE_H
 
-#include "jdkmidi/midi.h"
-#include "jdkmidi/msg.h"
-#include "jdkmidi/sysex.h"
-#include "jdkmidi/tempo.h"
+#include "midi.h"
+#include "msg.h"
+#include "sysex.h"
+#include "tempo.h"
 
 
 namespace jdkmidi

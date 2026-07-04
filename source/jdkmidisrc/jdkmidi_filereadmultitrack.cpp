@@ -9,9 +9,9 @@
 */
 
 
-#include "jdkmidi/world.h"
+#include "../jdkmidi/world.h"
 
-#include "jdkmidi/filereadmultitrack.h"
+#include "../jdkmidi/filereadmultitrack.h"
 
 namespace jdkmidi
 {

@@ -1,6 +1,6 @@
 #ifndef PAD_H
 #define PAD_H
-#include <SDL.h>
+#include <sdl2/sdl.h>
 #include <map>
  
 #if __SWITCH__

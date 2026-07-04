@@ -1,11 +1,11 @@
 #ifndef _JDKMIDI_MANAGER_H
 #define _JDKMIDI_MANAGER_H
 
-#include "jdkmidi/msg.h"
-#include "jdkmidi/sysex.h"
-#include "jdkmidi/driver.h"
-#include "jdkmidi/sequencer.h"
-#include "jdkmidi/tick.h"
+#include "msg.h"
+#include "sysex.h"
+#include "driver.h"
+#include "sequencer.h"
+#include "tick.h"
 
 namespace jdkmidi
 {  

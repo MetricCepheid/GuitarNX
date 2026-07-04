@@ -1,9 +1,9 @@
 #ifndef _JDKMIDI_SONG_H
 #define _JDKMIDI_SONG_H
 
-#include "jdkmidi/multitrack.h"
-#include "jdkmidi/sequencer.h"
-#include "jdkmidi/filereadmultitrack.h"
+#include "multitrack.h"
+#include "sequencer.h"
+#include "filereadmultitrack.h"
 
 namespace jdkmidi
 {  

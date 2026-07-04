@@ -11,7 +11,7 @@
 #ifndef _JDKMIDI_KEYSIG_H
 #define _JDKMIDI_KEYSIG_H
 
-#include "jdkmidi/midi.h"
+#include "midi.h"
 
 namespace jdkmidi
 {

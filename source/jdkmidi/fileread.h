@@ -11,10 +11,10 @@
 #ifndef _JDKMIDI_FILEREAD_H
 #define _JDKMIDI_FILEREAD_H
 
-#include "jdkmidi/midi.h"
-#include "jdkmidi/msg.h"
-#include "jdkmidi/sysex.h"
-#include "jdkmidi/file.h"
+#include "midi.h"
+#include "msg.h"
+#include "sysex.h"
+#include "file.h"
 
 namespace jdkmidi
 {

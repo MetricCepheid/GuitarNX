@@ -1,7 +1,7 @@
 #ifndef _JDKMIDI_DRIVERDUMP_H
 #define _JDKMIDI_DRIVERDUMP_H
 
-#include "jdkmidi/driver.h"
+#include "driver.h"
 
 namespace jdkmidi
 {

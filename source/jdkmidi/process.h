@@ -1,8 +1,8 @@
 #ifndef _JDKMIDI_PROCESS_H
 #define _JDKMIDI_PROCESS_H
 
-#include "jdkmidi/msg.h"
-#include "jdkmidi/sysex.h"
+#include "msg.h"
+#include "sysex.h"
 
 namespace jdkmidi
 {

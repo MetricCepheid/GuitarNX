@@ -1,7 +1,7 @@
 
-#include "jdkmidi/world.h"
+#include "../jdkmidi/world.h"
 
-#include "jdkmidi/showcontrolhandler.h"
+#include "../jdkmidi/showcontrolhandler.h"
 
 namespace jdkmidi
 {

@@ -8,9 +8,9 @@
 #include <glm/matrix.hpp>
 #include <glm/mat4x4.hpp>
 
-#include <Shader.h>
-#include <Renderer.h>
-#include "Entry.h" 
+#include "Shader.h"
+#include "Renderer.h"
+#include "Entry.h"
 #include <ft2build.h>
 #include FT_FREETYPE_H
 

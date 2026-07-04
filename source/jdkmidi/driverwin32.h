@@ -1,8 +1,8 @@
 #ifndef _JDKMIDI_DRIVERWIN32_H
 #define _JDKMIDI_DRIVERWIN32_H
 
-#include "jdkmidi/driver.h"
-#include "jdkmidi/sequencer.h"
+#include "driver.h"
+#include "sequencer.h"
 
 #ifdef WIN32
 #include <windows.h>

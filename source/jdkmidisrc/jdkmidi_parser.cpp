@@ -9,9 +9,9 @@
 */
 
 
-#include "jdkmidi/world.h"
+#include "../jdkmidi/world.h"
 
-#include "jdkmidi/parser.h"
+#include "../jdkmidi/parser.h"
 
 
 #ifndef DEBUG_MDPARSER

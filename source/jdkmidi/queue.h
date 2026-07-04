@@ -1,8 +1,8 @@
 #ifndef _JDKMIDI_QUEUE_H
 #define _JDKMIDI_QUEUE_H
 
-#include "jdkmidi/msg.h"
-#include "jdkmidi/sysex.h"
+#include "msg.h"
+#include "sysex.h"
 
 namespace jdkmidi
 {

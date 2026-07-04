@@ -1,5 +1,5 @@
-#include "jdkmidi/world.h"
-#include "jdkmidi/filewritemultitrack.h"
+#include "../jdkmidi/world.h"
+#include "../jdkmidi/filewritemultitrack.h"
 
 namespace jdkmidi
 {

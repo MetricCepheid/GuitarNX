@@ -1,11 +1,11 @@
 #ifndef _JDKMIDI_SEQUENCER_H
 #define _JDKMIDI_SEQUENCER_H
 
-#include "jdkmidi/track.h"
-#include "jdkmidi/multitrack.h"
-#include "jdkmidi/tempo.h"
-#include "jdkmidi/matrix.h"
-#include "jdkmidi/process.h"
+#include "track.h"
+#include "multitrack.h"
+#include "tempo.h"
+#include "matrix.h"
+#include "process.h"
 
 namespace jdkmidi
 {

@@ -1,8 +1,8 @@
 
-#include "jdkmidi/world.h"
+#include "../jdkmidi/world.h"
 
 #ifdef WIN32
-#include "jdkmidi/driverwin32.h"
+#include "../jdkmidi/driverwin32.h"
 
 namespace jdkmidi
 {

@@ -8,8 +8,8 @@
 **
 */
 
-#include "jdkmidi/world.h"
-#include "jdkmidi/smpte.h"
+#include "../jdkmidi/world.h"
+#include "../jdkmidi/smpte.h"
 
 #ifndef DEBUG_MDSMPTE
 # define DEBUG_MDSMPTE	0

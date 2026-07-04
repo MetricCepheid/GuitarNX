@@ -4,7 +4,7 @@
 
 
 
-#include "jdkmidi/showcontrol.h"
+#include "showcontrol.h"
 
 
 namespace jdkmidi

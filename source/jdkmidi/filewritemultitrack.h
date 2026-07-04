@@ -1,8 +1,8 @@
 #ifndef _JDKMIDI_FILEWRITEMULTITRACK_H
 #define _JDKMIDI_FILEWRITEMULTITRACK_H
 
-#include "jdkmidi/filewrite.h"
-#include "jdkmidi/multitrack.h"
+#include "filewrite.h"
+#include "multitrack.h"
 
 namespace jdkmidi
 {

@@ -11,7 +11,7 @@
 #ifndef _JDKMIDI_MULTITRACK_H
 #define _JDKMIDI_MULTITRACK_H
 
-#include "jdkmidi/track.h"
+#include "track.h"
 
 namespace jdkmidi
 {

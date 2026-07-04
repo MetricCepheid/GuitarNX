@@ -9,9 +9,9 @@
 */
 
 
-#include "jdkmidi/world.h"
+#include "../jdkmidi/world.h"
 
-#include "jdkmidi/midi.h"
+#include "../jdkmidi/midi.h"
 
 namespace jdkmidi
 {
