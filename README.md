@@ -13,7 +13,7 @@ A Guitar Hero like game for the Nintendo Switch.	You can add music from the form
 * When compiling the examples in a clean Devkit installation the some libraries/tools where not installed.
    I was able to complile all examples with the following libraries/tools
    ```Shell
-   pacman -S switch-pkg-config switch-opusfile switch-libopus switch-sdl2 switch-sdl2_mixer switch-glm switch-glad switch-freetype switch-curl switch-sdl2_gfx switch-sdl2_image
+   pacman -S switch-pkg-config switch-opusfile switch-libopus switch-sdl2 switch-sdl2_mixer switch-glm switch-glad switch-freetype switch-curl switch-sdl2_gfx switch-sdl2_image switch-sdl2_ttf switch-libtimidity
    ```
 
 * Clone&Build GuitarNX 
