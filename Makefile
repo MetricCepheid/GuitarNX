@@ -36,7 +36,8 @@ include $(DEVKITPRO)/libnx/switch_rules
 #   If a JSON file is provided or autodetected, an ExeFS PFS0 (.nsp) is built instead
 #   of a homebrew executable (.nro). This is intended to be used for sysmodules.
 #   NACP building is skipped as well.
-#---------------------------------------------------------------------------------TARGET      := $(notdir $(CURDIR))
+#---------------------------------------------------------------------------------
+TARGET      := $(notdir $(CURDIR))
 BUILD       := build
 SOURCES     := source source/audio source/jdkmidi source/jdkmidisrc source/ogg source/tremor
 INCLUDES    := include source source/audio source/ogg source/tremor
