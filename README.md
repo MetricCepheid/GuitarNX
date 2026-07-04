@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # GuitarNX
 A Guitar Hero like game for the Nintendo Switch.	You can add music from the format of "Frets on fire '(visit http://fretsonfire.wikidot.com/custom-songs)
 
